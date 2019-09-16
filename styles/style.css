@@ -1,0 +1,31 @@
+    html {
+  	font-size: 20px;
+  	font-family: 'Gloria Hallelujah', cursive;
+  	background-color: #FF0000;
+}
+    h1 {
+      	font-size: 40px;
+      	text-align: center;
+}
+    p, li {
+     	font-size: 18px;
+     	line-height: 3;
+      	letter-spacing: .75px;
+}
+    body {
+	width: 500px;
+	margin: 0 auto;
+	background-color: #81F7F3;
+	padding: 0 10px 20px 10px;
+	border: 15px solid black;
+}
+    h1 {
+	margin: 0;
+  	padding: 10px 0;
+  	color: #A9A9F5;
+      	text-shadow: 3px 5px 1px black;
+}
+    img {
+	display: block;
+  	margin: 0 auto;
+}
